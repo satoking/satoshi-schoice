@@ -477,7 +477,7 @@ iframe{
 
 /*レスポンシブ
 **************/
-@media(max-width:600px){
+@media screen(max-width:600px){
     .page-title{
         font-size: 3em;
         
